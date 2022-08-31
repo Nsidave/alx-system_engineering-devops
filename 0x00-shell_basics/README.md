@@ -9,3 +9,6 @@ Move the file
 Delete the file
 Delete the directory
 changes the working directory to the previous one
+prints the type of the file named
+Create a symbolic link
+Create a script that copies all the HTML files
