@@ -7,3 +7,4 @@ Display current directory contents.
 Creates a named directory in a directory
 Move the file
 Delete the file
+Delete the directory
