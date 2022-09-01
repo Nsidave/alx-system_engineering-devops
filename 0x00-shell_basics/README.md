@@ -13,3 +13,4 @@ prints the type of the file named
 Create a symbolic link
 Create a script that copies all the HTML files
 moves all files beginning with an uppercase letter to the directory
+deletes all files in the current working directory that end with the character ~
