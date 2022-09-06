@@ -10,3 +10,4 @@ A script that writes into a file
 Script that deletes all regular files
 Script that count the number oddirectories and sub-directories in the current directory
 Script that display the 10 newest files in the current directory
+Script that makes a list of words and print only words that appear exactly
