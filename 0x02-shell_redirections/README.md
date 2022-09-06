@@ -8,3 +8,4 @@ Script that display the third line of thr file iacta
 Shell script that creates a file named exactly...
 A script that writes into a file
 Script that deletes all regular files
+Script that count the number oddirectories and sub-directories in the current directory
