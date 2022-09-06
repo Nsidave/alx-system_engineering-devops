@@ -9,3 +9,4 @@ Shell script that creates a file named exactly...
 A script that writes into a file
 Script that deletes all regular files
 Script that count the number oddirectories and sub-directories in the current directory
+Script that display the 10 newest files in the current directory
