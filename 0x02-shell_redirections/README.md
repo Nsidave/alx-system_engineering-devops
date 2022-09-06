@@ -12,3 +12,4 @@ Script that count the number oddirectories and sub-directories in the current di
 Script that display the 10 newest files in the current directory
 Script that makes a list of words and print only words that appear exactly
 Display lines containing the pattern "root" from the file /etc/passwd
+Display lines containing thr pattern "root" and 3 lines after them in the file /etc/passwd
