@@ -19,3 +19,4 @@ replace all characters A and C from input to Z and e respectively
 Script that removes all letter c and C from input
 Script that reverse its input
 Script that display all users and their home directories
+Commands that finds all empty files and directories
