@@ -14,3 +14,4 @@ Script that prints all possible combinations of two letters except oo
 Script that prints a number with two decimal place
 Script that converts a number from base 10 to base 16
 Script that encodes and decodes
+Script that prints every other line from the input, starting with the first line
