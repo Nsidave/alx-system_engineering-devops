@@ -22,3 +22,4 @@ Script that display all users and their home directories
 Commands that finds all empty files and directories
 Script that lists all files with .gif extension
 Script that decodes acrostics
+Script that parses web servers
