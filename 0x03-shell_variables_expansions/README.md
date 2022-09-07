@@ -9,3 +9,4 @@ Script that creates a new global variable
 Script that prints the result of that addition of 128 with the value stored in the enviornment variable TRUEKNOWLEDGE
 Script that prints the result of POWER divided by DIVIDE
 Script that displays the result of BREATH to the power LOVE
+Script that converts a number from base 2 to base 10
